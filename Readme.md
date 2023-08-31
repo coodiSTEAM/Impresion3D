@@ -2,7 +2,7 @@ Cliqui
 
 Es un robot realizado con Arduino UNO e impresión 3D y bajo el concepto DIY (Hágalo usted mismo)
 
-![alt text](https://github.com/Cliqui-Robot/Impresion3D/img/cliqui.jpg)
+![alt text](https://github.com/coodiSTEAM/Impresion3D/img/cliqui.jpg)
 
 # Materiales 
 
